@@ -14,15 +14,15 @@ public class Ex_05 {
 
         //ler num1
         System.out.print("Introduza um número: ");
-        num1 = input.nextInt();
+        num1 = input.nextDouble();
 
         //ler num2
         System.out.print("Introduza um número: ");
-        num2 = input.nextInt();
+        num2 = input.nextDouble();
 
         //ler num3
         System.out.print("Introduza um número: ");
-        num3 = input.nextInt();
+        num3 = input.nextDouble();
 
         //calcular a media
         soma = num1+num2+num3;

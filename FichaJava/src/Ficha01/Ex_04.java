@@ -14,7 +14,7 @@ public class Ex_04 {
 
         //ler raio
         System.out.print("Introduza o raio da circunferencia: ");
-        raio = input.nextInt();
+        raio = input.nextDouble();
 
         //calcular area do circulo
         area = Math.PI*raio*raio;

@@ -13,11 +13,11 @@ public class Ex_02 {
 
         //ler num1
         System.out.print("Introduza um número: ");
-        num1 = input.nextInt();
+        num1 = input.nextDouble();
 
         //ler num2
         System.out.print("Introduza outro número: ");
-        num2 = input.nextInt();
+        num2 = input.nextDouble();
 
         //calcular a soma de num1 + num2
         soma = num1+num2;

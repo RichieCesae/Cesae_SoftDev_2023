@@ -14,11 +14,11 @@ public class Ex_03 {
 
         //ler comprimento
         System.out.print("Introduza o comprimento do retangulo: ");
-        comp = input.nextInt();
+        comp = input.nextDouble();
 
         //ler largura
         System.out.print("Introduza a largura do retangulo: ");
-        larg = input.nextInt();
+        larg = input.nextDouble();
 
         //calcular a area
         area = comp*larg;

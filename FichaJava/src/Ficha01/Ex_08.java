@@ -58,10 +58,7 @@ public class Ex_08 {
 
 
         // apresentar a soma
-        System.out.println("tempo de album: " + hh + "h:" + mm + "m:" + ss + "s");
-
-
-
+        System.out.println("Tempo de album: " + hh + "h:" + mm + "m:" + ss + "s");
     }
 
 }

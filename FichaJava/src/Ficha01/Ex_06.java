@@ -26,8 +26,9 @@ public class Ex_06 {
         System.out.println("Valor de b =" + valor2);
 
         //permutar valores
-
-
+        valor1 = valor2 + valor1;
+        valor2 = valor1 - valor2;
+        valor1 = valor1 - valor2;
 
         // apresentar valores
         System.out.println("Novo a =" + valor1);

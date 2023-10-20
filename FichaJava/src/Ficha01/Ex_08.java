@@ -45,6 +45,26 @@ public class Ex_08 {
         System.out.print("Introduza segundos da musica 3: ");
         ss = input.nextInt();
 
+        //ler minutos da quarta musica
+        System.out.print("Introduza minutos da musica 4: ");
+        mm = input.nextInt();
+
+        soma = soma + (mm * 60);
+
+        //ler segundos da quarta musica
+        System.out.print("Introduza segundos da musica 4: ");
+        ss = input.nextInt();
+
+        //ler minutos da quinta musica
+        System.out.print("Introduza minutos da musica 5: ");
+        mm = input.nextInt();
+
+        soma = soma + (mm * 60);
+
+        //ler segundos da quinta musica
+        System.out.print("Introduza segundos da musica 5: ");
+        ss = input.nextInt();
+
         soma = soma + ss;
 
         hh = soma / 3600;

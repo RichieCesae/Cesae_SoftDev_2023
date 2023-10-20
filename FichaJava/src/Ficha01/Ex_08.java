@@ -6,7 +6,7 @@ public class Ex_08 {
 
     public static void main(String[] args) {
 
-        int hh, mm, ss, soma, resto;
+        int hh, mm, ss, soma;
 
         //instanciar scanner
         Scanner input = new Scanner(System.in);
@@ -49,13 +49,10 @@ public class Ex_08 {
 
 
         hh = soma / 3600;
-        resto = soma % 3600;
 
-        mm = resto /60;
+        mm = (soma % 3600)/60;
 
         ss = soma - (hh*3600 + mm*60);
-
-
 
         // apresentar a soma
         System.out.println("Tempo de album: " + hh + "h:" + mm + "m:" + ss + "s");

@@ -47,7 +47,6 @@ public class Ex_08 {
 
         soma = soma + ss;
 
-
         hh = soma / 3600;
 
         mm = (soma % 3600)/60;

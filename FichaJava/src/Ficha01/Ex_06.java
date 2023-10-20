@@ -20,17 +20,14 @@ public class Ex_06 {
         System.out.print("Introduza um número para b: ");
         valor2 = input.nextInt();
 
+
         // apresentar valores
         System.out.println("Valor de a =" + valor1);
         System.out.println("Valor de b =" + valor2);
 
         //permutar valores
-        if(valor1 >valor2){
 
-            valor1 = valor1 ^ valor2;
-            valor2 = valor1 ^ valor2;
-            valor1 = valor1 ^ valor2;
-        }
+
 
         // apresentar valores
         System.out.println("Novo a =" + valor1);

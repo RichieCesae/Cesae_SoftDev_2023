@@ -38,7 +38,11 @@ public class Ex_10 {
                 break;
 
             case "/":
-                System.out.println("Resultado :" + num1/num2);
+                if(num2 == 0){
+                    System.out.println("Erro. Divisão por 0.");
+                }else{
+                    System.out.println("Resultado :" + num1/num2);
+                }
                 break;
             default:
                 System.out.println("Erro!");

@@ -20,10 +20,10 @@ public class Ex_13 {
         System.out.print("Introduza minutos: ");
         mm = input.nextInt();
 
-        if (hh <= 24 && hh > 12){
-            System.out.println((hh-12) + ":" + mm +"AM");
-        }else if(hh > 12){
-            System.out.println(hh + ":" + mm + "PM");
+        if (hh > 12){
+            System.out.println((hh-12) + ":" + mm +"PM");
+        }else if(hh < 12){
+            System.out.println(hh + ":" + mm + "AM");
         }else if (hh == 12){
             System.out.println((hh-12) + ":" + mm + "PM");
         }

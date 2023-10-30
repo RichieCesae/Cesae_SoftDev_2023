@@ -10,6 +10,13 @@ public class Ex_02 {
             System.out.println(c);
             c = c + 2;
         }
+
+        while (c<=400){
+            System.out.println(c);
+            c=c+2;
+        }
+
+
     }
 
 }

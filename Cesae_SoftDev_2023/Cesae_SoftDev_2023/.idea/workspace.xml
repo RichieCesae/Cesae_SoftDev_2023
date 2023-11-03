@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eca963c0-1fb3-4b8c-8ddc-e1b3edae25df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/FichaExtra01/Ex_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/FichaExtra01/Ex_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/FichaExtra01/Ex_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/FichaExtra01/Ex_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FichaJava/src/FichaExtra01/Ex_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha02/Ex_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/Ficha03/Ex_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FichaJava/src/FichaExtra01/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FichaJava/src/FichaExtra01/Ex_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha01/Ex_09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha02/Ex_13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/Ficha03/Ex_14SemMul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra01/Ex_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra01/Ex_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_04_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_04_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_04_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_05_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_05_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Cesae_SoftDev_2023/FichaExtra02/Ex_05_3.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XFhA4LT7hZXNFSmbXN3TEZQNRa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging main",
+    "last_opened_file_path": "C:/Users/softdev/Documents/Cesae_SoftDev_2023/Cesae_SoftDev_2023",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eca963c0-1fb3-4b8c-8ddc-e1b3edae25df" name="Changes" comment="" />
+      <created>1698230592092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698230592092</updated>
+    </task>
+    <servers />
+  </component>
+</project>
